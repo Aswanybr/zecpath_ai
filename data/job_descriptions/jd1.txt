@@ -1,0 +1,13 @@
+Job Title: AI Engineer
+
+Required Skills:
+Python
+Machine Learning
+FastAPI
+Docker
+
+Experience:
+2+ years
+
+Education:
+B.Tech or M.Tech in Computer Science
