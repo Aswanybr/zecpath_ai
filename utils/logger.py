@@ -1,15 +1,9 @@
-from loguru import logger
-import os
+import logging
 
-# Create logs directory
-os.makedirs("logs", exist_ok=True)
-
-logger.add(
-    "logs/ai_system.log",
-    rotation="1 MB",
-    retention="10 days",
-    level="INFO"
+logging.basicConfig(
+    filename="logs/extraction.log",
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s"
 )
 
-def get_logger():
-    return logger
+logger = logging.getLogger()
