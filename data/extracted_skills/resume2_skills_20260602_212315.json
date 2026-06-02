@@ -1,0 +1,249 @@
+{
+  "extraction_metadata": {
+    "extraction_method": "NLP-based with pattern matching and fuzzy matching",
+    "total_skills_extracted": 11,
+    "filtered_skills_count": 11,
+    "min_confidence_threshold": 0.5,
+    "pipeline_version": "1.0"
+  },
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "confidence": 0.6,
+      "confidence_level": "MEDIUM",
+      "component_scores": {
+        "extraction_method": 0.5,
+        "mention_frequency": 0.95,
+        "contextual_keywords": 0.55,
+        "positional_relevance": 0.5,
+        "proficiency_indicators": 0.5
+      },
+      "factors": "Confidence MEDIUM (60.0%). Strongest factor: mention_frequency (0.95). Weakest factor: extraction_method (0.50).",
+      "is_verified": true,
+      "normalized_name": "JavaScript"
+    },
+    {
+      "skill_name": "UI/UX Design",
+      "confidence": 0.6,
+      "confidence_level": "MEDIUM",
+      "component_scores": {
+        "extraction_method": 0.5,
+        "mention_frequency": 0.95,
+        "contextual_keywords": 0.55,
+        "positional_relevance": 0.5,
+        "proficiency_indicators": 0.5
+      },
+      "factors": "Confidence MEDIUM (60.0%). Strongest factor: mention_frequency (0.95). Weakest factor: extraction_method (0.50).",
+      "is_verified": true,
+      "normalized_name": "UI/UX Design"
+    },
+    {
+      "skill_name": "Go",
+      "confidence": 0.58,
+      "confidence_level": "MEDIUM",
+      "component_scores": {
+        "extraction_method": 0.5,
+        "mention_frequency": 0.85,
+        "contextual_keywords": 0.55,
+        "positional_relevance": 0.5,
+        "proficiency_indicators": 0.5
+      },
+      "factors": "Confidence MEDIUM (58.0%). Strongest factor: mention_frequency (0.85). Weakest factor: extraction_method (0.50).",
+      "is_verified": true,
+      "normalized_name": "Go"
+    },
+    {
+      "skill_name": "Emotional Intelligence",
+      "confidence": 0.58,
+      "confidence_level": "MEDIUM",
+      "component_scores": {
+        "extraction_method": 0.5,
+        "mention_frequency": 0.85,
+        "contextual_keywords": 0.55,
+        "positional_relevance": 0.5,
+        "proficiency_indicators": 0.5
+      },
+      "factors": "Confidence MEDIUM (58.0%). Strongest factor: mention_frequency (0.85). Weakest factor: extraction_method (0.50).",
+      "is_verified": true,
+      "normalized_name": "Emotional Intelligence"
+    },
+    {
+      "skill_name": "R",
+      "confidence": 0.55,
+      "confidence_level": "MEDIUM",
+      "component_scores": {
+        "extraction_method": 0.5,
+        "mention_frequency": 0.7,
+        "contextual_keywords": 0.55,
+        "positional_relevance": 0.5,
+        "proficiency_indicators": 0.5
+      },
+      "factors": "Confidence MEDIUM (55.0%). Strongest factor: mention_frequency (0.70). Weakest factor: extraction_method (0.50).",
+      "is_verified": true,
+      "normalized_name": "R"
+    },
+    {
+      "skill_name": "TensorFlow",
+      "confidence": 0.55,
+      "confidence_level": "MEDIUM",
+      "component_scores": {
+        "extraction_method": 0.5,
+        "mention_frequency": 0.7,
+        "contextual_keywords": 0.55,
+        "positional_relevance": 0.5,
+        "proficiency_indicators": 0.5
+      },
+      "factors": "Confidence MEDIUM (55.0%). Strongest factor: mention_frequency (0.70). Weakest factor: extraction_method (0.50).",
+      "is_verified": true,
+      "normalized_name": "TensorFlow"
+    },
+    {
+      "skill_name": "REST API",
+      "confidence": 0.55,
+      "confidence_level": "MEDIUM",
+      "component_scores": {
+        "extraction_method": 0.5,
+        "mention_frequency": 0.7,
+        "contextual_keywords": 0.55,
+        "positional_relevance": 0.5,
+        "proficiency_indicators": 0.5
+      },
+      "factors": "Confidence MEDIUM (55.0%). Strongest factor: mention_frequency (0.70). Weakest factor: extraction_method (0.50).",
+      "is_verified": true,
+      "normalized_name": "REST API"
+    },
+    {
+      "skill_name": "Project Management",
+      "confidence": 0.55,
+      "confidence_level": "MEDIUM",
+      "component_scores": {
+        "extraction_method": 0.5,
+        "mention_frequency": 0.7,
+        "contextual_keywords": 0.55,
+        "positional_relevance": 0.5,
+        "proficiency_indicators": 0.5
+      },
+      "factors": "Confidence MEDIUM (55.0%). Strongest factor: mention_frequency (0.70). Weakest factor: extraction_method (0.50).",
+      "is_verified": true,
+      "normalized_name": "Project Management"
+    },
+    {
+      "skill_name": "Business Analysis",
+      "confidence": 0.55,
+      "confidence_level": "MEDIUM",
+      "component_scores": {
+        "extraction_method": 0.5,
+        "mention_frequency": 0.7,
+        "contextual_keywords": 0.55,
+        "positional_relevance": 0.5,
+        "proficiency_indicators": 0.5
+      },
+      "factors": "Confidence MEDIUM (55.0%). Strongest factor: mention_frequency (0.70). Weakest factor: extraction_method (0.50).",
+      "is_verified": true,
+      "normalized_name": "Business Analysis"
+    },
+    {
+      "skill_name": "Process Improvement",
+      "confidence": 0.55,
+      "confidence_level": "MEDIUM",
+      "component_scores": {
+        "extraction_method": 0.5,
+        "mention_frequency": 0.7,
+        "contextual_keywords": 0.55,
+        "positional_relevance": 0.5,
+        "proficiency_indicators": 0.5
+      },
+      "factors": "Confidence MEDIUM (55.0%). Strongest factor: mention_frequency (0.70). Weakest factor: extraction_method (0.50).",
+      "is_verified": true,
+      "normalized_name": "Process Improvement"
+    },
+    {
+      "skill_name": "Rust",
+      "confidence": 0.55,
+      "confidence_level": "MEDIUM",
+      "component_scores": {
+        "extraction_method": 0.5,
+        "mention_frequency": 0.7,
+        "contextual_keywords": 0.55,
+        "positional_relevance": 0.5,
+        "proficiency_indicators": 0.5
+      },
+      "factors": "Confidence MEDIUM (55.0%). Strongest factor: mention_frequency (0.70). Weakest factor: extraction_method (0.50).",
+      "is_verified": true,
+      "normalized_name": "Rust"
+    }
+  ],
+  "skills_by_category": {
+    "extraction_method": [
+      "JavaScript",
+      "UI/UX Design",
+      "Go",
+      "Emotional Intelligence",
+      "R",
+      "TensorFlow",
+      "REST API",
+      "Project Management",
+      "Business Analysis",
+      "Process Improvement",
+      "Rust"
+    ]
+  },
+  "statistics": {
+    "total_skills": 11,
+    "average_confidence": 0.565,
+    "min_confidence": 0.55,
+    "max_confidence": 0.6,
+    "median_confidence": 0.55,
+    "high_confidence_skills": 0,
+    "confidence_distribution": {
+      "VERY_HIGH": 0,
+      "HIGH": 0,
+      "MEDIUM": 11,
+      "LOW": 0,
+      "VERY_LOW": 0
+    }
+  },
+  "top_skills": [
+    {
+      "name": "JavaScript",
+      "confidence": 0.6
+    },
+    {
+      "name": "UI/UX Design",
+      "confidence": 0.6
+    },
+    {
+      "name": "Go",
+      "confidence": 0.58
+    },
+    {
+      "name": "Emotional Intelligence",
+      "confidence": 0.58
+    },
+    {
+      "name": "R",
+      "confidence": 0.55
+    },
+    {
+      "name": "TensorFlow",
+      "confidence": 0.55
+    },
+    {
+      "name": "REST API",
+      "confidence": 0.55
+    },
+    {
+      "name": "Project Management",
+      "confidence": 0.55
+    },
+    {
+      "name": "Business Analysis",
+      "confidence": 0.55
+    },
+    {
+      "name": "Process Improvement",
+      "confidence": 0.55
+    }
+  ],
+  "resume_id": "resume2"
+}

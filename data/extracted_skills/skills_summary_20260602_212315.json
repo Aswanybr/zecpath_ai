@@ -1,0 +1,92 @@
+{
+  "extraction_date": "2026-06-02T21:23:15.431946",
+  "total_resumes": 3,
+  "total_unique_skills": 26,
+  "avg_confidence": 0.5736666666666667,
+  "results": [
+    {
+      "resume_id": "resume1",
+      "skills_extracted": 21,
+      "average_confidence": 0.573,
+      "high_confidence_skills": 0,
+      "top_skills": [
+        {
+          "name": "JavaScript",
+          "confidence": 0.6
+        },
+        {
+          "name": "R",
+          "confidence": 0.6
+        },
+        {
+          "name": "Business Analysis",
+          "confidence": 0.6
+        },
+        {
+          "name": "Graphic Design",
+          "confidence": 0.6
+        },
+        {
+          "name": "UI/UX Design",
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "resume_id": "resume2",
+      "skills_extracted": 11,
+      "average_confidence": 0.565,
+      "high_confidence_skills": 0,
+      "top_skills": [
+        {
+          "name": "JavaScript",
+          "confidence": 0.6
+        },
+        {
+          "name": "UI/UX Design",
+          "confidence": 0.6
+        },
+        {
+          "name": "Go",
+          "confidence": 0.58
+        },
+        {
+          "name": "Emotional Intelligence",
+          "confidence": 0.58
+        },
+        {
+          "name": "R",
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "resume_id": "resume3",
+      "skills_extracted": 9,
+      "average_confidence": 0.583,
+      "high_confidence_skills": 0,
+      "top_skills": [
+        {
+          "name": "R",
+          "confidence": 0.6
+        },
+        {
+          "name": "Process Improvement",
+          "confidence": 0.6
+        },
+        {
+          "name": "UI/UX Design",
+          "confidence": 0.6
+        },
+        {
+          "name": "Emotional Intelligence",
+          "confidence": 0.6
+        },
+        {
+          "name": "Project Management",
+          "confidence": 0.59
+        }
+      ]
+    }
+  ]
+}
