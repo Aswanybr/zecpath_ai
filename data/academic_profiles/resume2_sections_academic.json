@@ -1,0 +1,33 @@
+{
+    "education": [
+        {
+            "degree_type": "Master's Degree",
+            "field_of_study": "Dietary",
+            "institution": "",
+            "graduation_year": "",
+            "raw_text": "Master of Science in Dietary"
+        },
+        {
+            "degree_type": "Bachelor's Degree",
+            "field_of_study": "Food Sciences",
+            "institution": "Wisconsin Madisonville LANGUAGES State University",
+            "graduation_year": "2021",
+            "raw_text": "Golden Valley Golden Valley HOBBIES University Jul 2020 Jul 2021 Soccer, Rugby, Tennis Bachelor of Science in Food Sciences, Wisconsin Madisonville LANGUAGES State University Jan 2018 Dec 2020 English French"
+        },
+        {
+            "degree_type": "Associate Degree",
+            "field_of_study": "Nutrition",
+            "institution": "St. Louis University",
+            "graduation_year": "2017",
+            "raw_text": "Associates Degree in Nutrition, St. Louis University Louisville Jan 2015 Oct 2017"
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Certified Head Nutrition Consultant , Food Sciences Council",
+            "normalized_name": "Certified Head Nutrition Consultant , Food Sciences Council",
+            "category": "Healthcare",
+            "source": "certifications"
+        }
+    ]
+}

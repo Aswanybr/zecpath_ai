@@ -1,0 +1,25 @@
+{
+    "education": [
+        {
+            "degree_type": "Associate Degree",
+            "field_of_study": "Logistics and Supply Chain",
+            "institution": "Languages Atlanta Technical College",
+            "graduation_year": "2022",
+            "raw_text": "Associates Degree in Logistics and Supply Chain Fundamentals, Languages Atlanta Technical College, Atlanta English January 2021 July 2022 - Majors: Warehousing Operations, Logistics and Distribution Spanish Practices - Minors: Inventory Systems, Supply Chain Principles"
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Online Graduate Certificate in Warehousing Supply Chain Management, Southern New Hampshire University (SNHU), NH",
+            "normalized_name": "Online Graduate Certificate in Warehousing Supply Chain Management, Southern New Hampshire University (SNHU), NH",
+            "category": "Operations",
+            "source": "certifications"
+        },
+        {
+            "name": "2022 Warehousing, Operations, and Disposal Course, Graduate School USA, Washington DC",
+            "normalized_name": "2022 Warehousing, Operations, and Disposal Course, Graduate School USA, Washington DC",
+            "category": "Operations",
+            "source": "certifications"
+        }
+    ]
+}

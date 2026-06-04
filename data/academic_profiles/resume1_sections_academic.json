@@ -1,0 +1,19 @@
+{
+    "education": [
+        {
+            "degree_type": "Master's Degree",
+            "field_of_study": "Human Computer Interaction",
+            "institution": "Pratt Institute",
+            "graduation_year": "2022",
+            "raw_text": "Dec 2020 May 2022 Masters Degree in Human Computer Interaction (HCI), Pratt Institute Jul 2016 Nov 2020"
+        },
+        {
+            "degree_type": "Bachelor's Degree",
+            "field_of_study": "Interaction Design",
+            "institution": "Pratt Institute",
+            "graduation_year": "",
+            "raw_text": "Bachelors Degree in Interaction Design, Pratt Institute New York - Excelled in Usability Testing coursework. - Mastered web and mobile technologies (HTML5, CSS, Javascript)"
+        }
+    ],
+    "certifications": []
+}
