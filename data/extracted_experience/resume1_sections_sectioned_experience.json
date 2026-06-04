@@ -1,0 +1,86 @@
+{
+  "experience_items": [
+    {
+      "company": "Real Vision Group  Real Vision Group",
+      "designation": "UX Designer",
+      "location": "New York",
+      "duration": "Oct 2024 Present",
+      "start_date": "2024-10-01",
+      "end_date": "2026-06-03",
+      "duration_months": 21,
+      "responsibilities": [
+        "Gathering and evaluating user requirements in collaboration with product manager",
+        "Presenting UX design concepts to the project stakeholders for review and feedback",
+        "Driving the development and communication of clear design guidelines, patterns, libraries, and assets",
+        "Working closely with the development team to implement the vision",
+        "Re",
+        "designing existing UIs to better adapt Android and iOS devices. Abandonment rate on mobile app decreased 35"
+      ],
+      "raw_text": "Oct 2024 Present UX Designer, Real Vision Group New York Real Vision Group is a digital financial media business based in Grand Cayman and New York. As the UX Designer, my core activities included:\n- Gathering and evaluating user requirements in collaboration with product manager. - Presenting UX design concepts to the project stakeholders for review and feedback. - Driving the development and communication of clear design guidelines, patterns, libraries, and assets. - Working closely with the development team to implement the vision. - Re-designing existing UIs to better adapt Android and iOS devices. Abandonment rate on mobile app decreased 35."
+    },
+    {
+      "company": "SP Global  SP Global Market Intelligence",
+      "designation": "UX Designer",
+      "location": "New York",
+      "duration": "Feb 2022 Sep 2024",
+      "start_date": "2022-02-01",
+      "end_date": "2024-09-01",
+      "duration_months": 32,
+      "responsibilities": [
+        "Preparing and presenting lo",
+        "fi mockups to internal teams and key stakeholders",
+        "Creating wireframes, site maps, flow diagrams, and hi",
+        "fi interactive prototypes under direction of senior designer",
+        "Leveraging site analytics to identify opportunities to improve the site experience. CTR increased by 27 in first 30 days",
+        "Conducting A/B testing to assess user impact of specific UI elements",
+        "Contributing to end",
+        "user documentation for final product used by more than 100,000 financial professionals"
+      ],
+      "raw_text": "Feb 2022 Sep 2024 UX Designer, SP Global New York SP Global Market Intelligence provides essential intelligence for individuals, companies and governments to make financial decisions with confidence. As the UX Designer, my core activities included:\n- Preparing and presenting lo-fi mockups to internal teams and key stakeholders. - Creating wireframes, site maps, flow diagrams, and hi-fi interactive prototypes under direction of senior designer. - Leveraging site analytics to identify opportunities to improve the site experience. CTR increased by 27 in first 30 days. - Conducting A/B testing to assess user impact of specific UI elements. - Contributing to end-user documentation for final product used by more than 100,000 financial professionals."
+    },
+    {
+      "company": "Status  Status",
+      "designation": "Junior UX Designer",
+      "location": "New York",
+      "duration": "Nov 2020 Jan 2022",
+      "start_date": "2020-11-01",
+      "end_date": "2022-01-01",
+      "duration_months": 15,
+      "responsibilities": [
+        "Illustrating case studies, personas, and user flow maps for Android and iOS alongside senior UX designer, PM, and content strategists",
+        "Creating hi",
+        "fi interactive prototypes to accurately demonstrate app to clients",
+        "Recommending alternative design solutions based on technical limitations. Ability for quick problem",
+        "solving earned positive feedback from stakeholders",
+        "Conducted layout adjustments based on data gathered during usability testing. Second round of testing showed 37 increase in successful task completion"
+      ],
+      "raw_text": "Nov 2020 Jan 2022 Junior UX Designer, Status New York Status is an open source discovery tool for the Ethereum blockchain. As the Junior UX Designer, my core activities included:\n- Illustrating case studies, personas, and user flow maps for Android and iOS alongside senior UX designer, PM, and content strategists. - Creating hi-fi interactive prototypes to accurately demonstrate app to clients. - Recommending alternative design solutions based on technical limitations. Ability for quick problem-solving earned positive feedback from stakeholders. - Conducted layout adjustments based on data gathered during usability testing. Second round of testing showed 37 increase in successful task completion."
+    }
+  ],
+  "total_experience_years": 5.67,
+  "total_experience_months": 68,
+  "gaps": [],
+  "overlaps": [],
+  "experience_summary": {
+    "total_experience_months": 68,
+    "total_experience_years": 5.666666666666667,
+    "total_roles": 3,
+    "roles_with_dates": 3,
+    "merged_ranges": [
+      {
+        "start_date": "2020-11-01",
+        "end_date": "2022-01-01"
+      },
+      {
+        "start_date": "2022-02-01",
+        "end_date": "2024-09-01"
+      },
+      {
+        "start_date": "2024-10-01",
+        "end_date": "2026-06-03"
+      }
+    ],
+    "gaps": [],
+    "overlaps": []
+  }
+}

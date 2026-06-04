@@ -1,0 +1,73 @@
+{
+  "experience_items": [
+    {
+      "company": "high cholesterol and diabetes for uninsured patients at the health center. LINKS - Performed nutrition assessments and WIC certifications. - Provided nutrition education counseling and assessed nutritional status for LinkedIn participants of the WIC program. Pinterest - Certified and enrolled participants according to the WIC program and state Resume Templates regulatory guidelines. Build this template Nutritional Consultant DaVita Delmas",
+      "designation": "Required to prescribe supplemental food packages tailored to clients needs and DRIVING LICENSE nutrition status per USDA established WIC Program policy. Full - Provided nutrition education counseling on morbid obesity",
+      "location": null,
+      "duration": "Jan 2021 Present",
+      "start_date": "2021-01-01",
+      "end_date": "2026-06-03",
+      "duration_months": 66,
+      "responsibilities": [
+        "Provided nutrition education counseling on morbid obesity, high cholesterol, and diabetes for uninsured patients at the health center. LINKS",
+        "Performed nutrition assessments and WIC certifications",
+        "Provided nutrition education counseling and assessed nutritional status for LinkedIn participants of the WIC program. Pinterest",
+        "Certified and enrolled participants according to the WIC program and state Resume Templates regulatory guidelines. Build this template Nutritional Consultant, DaVita Delmas"
+      ],
+      "raw_text": "Jan 2021 Present Required to prescribe supplemental food packages tailored to clients needs and DRIVING LICENSE nutrition status per USDA established WIC Program policy. Full - Provided nutrition education counseling on morbid obesity, high cholesterol, and diabetes for uninsured patients at the health center. LINKS - Performed nutrition assessments and WIC certifications. - Provided nutrition education counseling and assessed nutritional status for LinkedIn participants of the WIC program. Pinterest - Certified and enrolled participants according to the WIC program and state Resume Templates regulatory guidelines. Build this template Nutritional Consultant, DaVita Delmas"
+    },
+    {
+      "company": "unknown",
+      "designation": "unknown",
+      "location": null,
+      "duration": "Jan 2016 Nov 2019",
+      "start_date": "2016-01-01",
+      "end_date": "2019-11-01",
+      "duration_months": 47,
+      "responsibilities": [],
+      "raw_text": "Jan 2016 Nov 2019"
+    }
+  ],
+  "total_experience_years": 9.42,
+  "total_experience_months": 113,
+  "gaps": [
+    {
+      "gap_start": "2019-11-01",
+      "gap_end": "2021-01-01",
+      "gap_months": 14,
+      "between": {
+        "previous_role": "unknown",
+        "next_role": "Required to prescribe supplemental food packages tailored to clients needs and DRIVING LICENSE nutrition status per USDA established WIC Program policy. Full - Provided nutrition education counseling on morbid obesity"
+      }
+    }
+  ],
+  "overlaps": [],
+  "experience_summary": {
+    "total_experience_months": 113,
+    "total_experience_years": 9.416666666666666,
+    "total_roles": 2,
+    "roles_with_dates": 2,
+    "merged_ranges": [
+      {
+        "start_date": "2016-01-01",
+        "end_date": "2019-11-01"
+      },
+      {
+        "start_date": "2021-01-01",
+        "end_date": "2026-06-03"
+      }
+    ],
+    "gaps": [
+      {
+        "gap_start": "2019-11-01",
+        "gap_end": "2021-01-01",
+        "gap_months": 14,
+        "between": {
+          "previous_role": "unknown",
+          "next_role": "Required to prescribe supplemental food packages tailored to clients needs and DRIVING LICENSE nutrition status per USDA established WIC Program policy. Full - Provided nutrition education counseling on morbid obesity"
+        }
+      }
+    ],
+    "overlaps": []
+  }
+}

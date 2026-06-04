@@ -1,0 +1,37 @@
+{
+  "experience_items": [
+    {
+      "company": "picking counting record keeping and maintaining a clean area. Links - Consistently maintained picking/packing speeds in the 98th LinkedIn percentile. Pinterest - Picked all orders with 100 accuracy despite high speeds. Resume Templates - Maintained a clean work area meeting 97.5 of the inspection Build this template requirements",
+      "designation": "Full Performed all warehouse laborer duties such as packing",
+      "location": null,
+      "duration": "January 2021 July 2022",
+      "start_date": "2021-01-01",
+      "end_date": "2022-07-01",
+      "duration_months": 19,
+      "responsibilities": [
+        "Consistently maintained picking/packing speeds in the 98th LinkedIn percentile. Pinterest",
+        "Picked all orders with 100 accuracy despite high speeds. Resume Templates",
+        "Maintained a clean work area, meeting 97.5 of the inspection Build this template requirements"
+      ],
+      "raw_text": "January 2021 July 2022 Full Performed all warehouse laborer duties such as packing, picking, counting, record keeping, and maintaining a clean area. Links - Consistently maintained picking/packing speeds in the 98th LinkedIn percentile. Pinterest - Picked all orders with 100 accuracy despite high speeds. Resume Templates - Maintained a clean work area, meeting 97.5 of the inspection Build this template requirements."
+    }
+  ],
+  "total_experience_years": 1.58,
+  "total_experience_months": 19,
+  "gaps": [],
+  "overlaps": [],
+  "experience_summary": {
+    "total_experience_months": 19,
+    "total_experience_years": 1.5833333333333333,
+    "total_roles": 1,
+    "roles_with_dates": 1,
+    "merged_ranges": [
+      {
+        "start_date": "2021-01-01",
+        "end_date": "2022-07-01"
+      }
+    ],
+    "gaps": [],
+    "overlaps": []
+  }
+}
