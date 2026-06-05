@@ -1,0 +1,45 @@
+{
+  "job_profile": {
+    "job_title": "AI Engineer Required Skills: Python Machine Learning FastAPI Docker Experience: 2+ years Education: B.Tech or M.Tech in Computer Science",
+    "job_description": "2+ years Education: B.Tech or M.Tech in Computer Science",
+    "required_skills": [
+      "FastAPI",
+      "Python",
+      "Machine Learning",
+      "Docker"
+    ],
+    "projects": []
+  },
+  "results": [
+    {
+      "resume_file": "resume1_sections.json",
+      "score": {
+        "skills_similarity": 0.0,
+        "experience_similarity": 0.048,
+        "project_similarity": 0.0,
+        "overall_similarity": 0.021,
+        "match": false
+      }
+    },
+    {
+      "resume_file": "resume2_sections.json",
+      "score": {
+        "skills_similarity": 0.0,
+        "experience_similarity": 0.085,
+        "project_similarity": 0.0,
+        "overall_similarity": 0.038,
+        "match": false
+      }
+    },
+    {
+      "resume_file": "resume3_sections.json",
+      "score": {
+        "skills_similarity": 0.0,
+        "experience_similarity": 0.018,
+        "project_similarity": 0.0,
+        "overall_similarity": 0.008,
+        "match": false
+      }
+    }
+  ]
+}
