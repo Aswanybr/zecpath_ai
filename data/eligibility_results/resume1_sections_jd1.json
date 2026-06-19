@@ -1,0 +1,22 @@
+{
+    "candidate_id": "resume1_sections",
+    "job_id": "jd1",
+    "ats_score": 10.86,
+    "experience_years": 5.67,
+    "required_experience": 2,
+    "matched_skills": [
+        "Machine Learning"
+    ],
+    "missing_skills": [
+        "FastAPI",
+        "Python",
+        "Docker"
+    ],
+    "skill_match_percentage": 25.0,
+    "education_match": true,
+    "eligibility_status": "Rejected",
+    "decision_reason": [
+        "Experience requirement met",
+        "Education requirement met"
+    ]
+}

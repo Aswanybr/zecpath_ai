@@ -1,0 +1,17 @@
+{
+    "candidate_id": "resume3_sections",
+    "job_id": "jd2",
+    "ats_score": 0.0,
+    "experience_years": 1.58,
+    "required_experience": 0,
+    "matched_skills": [],
+    "missing_skills": [],
+    "skill_match_percentage": 100.0,
+    "education_match": true,
+    "eligibility_status": "Rejected",
+    "decision_reason": [
+        "Experience requirement met",
+        "Skill match 100.0%",
+        "Education requirement met"
+    ]
+}
