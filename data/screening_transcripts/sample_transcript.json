@@ -1,0 +1,37 @@
+{
+    "transcript_id": "TR001",
+
+    "candidate_id": "C001",
+
+    "job_id": "JD001",
+
+    "language": "en",
+
+    "interview_date": "2026-06-03",
+
+    "segments": [
+        {
+            "speaker": "AI",
+
+            "question_id": "INTRO_001",
+
+            "timestamp": "00:00:10",
+
+            "text": "Can you briefly introduce yourself?",
+
+            "confidence": 1.0
+        },
+
+        {
+            "speaker": "Candidate",
+
+            "question_id": "INTRO_001",
+
+            "timestamp": "00:00:20",
+
+            "text": "I am a software engineer with three years of Python experience.",
+
+            "confidence": 0.96
+        }
+    ]
+}
