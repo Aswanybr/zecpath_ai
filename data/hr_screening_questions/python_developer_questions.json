@@ -1,0 +1,105 @@
+[
+    {
+        "question_id": "INTRO_001",
+        "role": "python_developer",
+        "category": "Introduction",
+        "question": "Can you briefly introduce yourself?",
+        "answer_type": "text",
+        "mandatory": true,
+        "importance": 3,
+        "language": "en",
+        "scoring_weight": 1.0,
+        "follow_up_allowed": true
+    },
+
+    {
+        "question_id": "EDU_001",
+        "role": "python_developer",
+        "category": "Education",
+        "question": "What is your highest educational qualification?",
+        "answer_type": "text",
+        "mandatory": true,
+        "importance": 4,
+        "language": "en",
+        "scoring_weight": 1.2,
+        "follow_up_allowed": false
+    },
+
+    {
+        "question_id": "EXP_001",
+        "role": "python_developer",
+        "category": "Experience",
+        "question": "How many years of Python development experience do you have?",
+        "answer_type": "number",
+        "mandatory": true,
+        "importance": 5,
+        "language": "en",
+        "scoring_weight": 2.0,
+        "follow_up_allowed": true
+    },
+
+    {
+        "question_id": "SKILL_001",
+        "role": "python_developer",
+        "category": "Skills",
+        "question": "Have you worked with Django or FastAPI?",
+        "answer_type": "boolean",
+        "mandatory": true,
+        "importance": 5,
+        "language": "en",
+        "scoring_weight": 2.0,
+        "follow_up_allowed": true
+    },
+
+    {
+        "question_id": "SKILL_002",
+        "role": "python_developer",
+        "category": "Skills",
+        "question": "Which databases have you worked with?",
+        "answer_type": "text",
+        "mandatory": true,
+        "importance": 4,
+        "language": "en",
+        "scoring_weight": 1.5,
+        "follow_up_allowed": true
+    },
+
+    {
+        "question_id": "LOC_001",
+        "role": "python_developer",
+        "category": "Location",
+        "question": "What is your current location?",
+        "answer_type": "text",
+        "mandatory": true,
+        "importance": 3,
+        "language": "en",
+        "scoring_weight": 1.0,
+        "follow_up_allowed": false
+    },
+
+    {
+        "question_id": "SAL_001",
+        "role": "python_developer",
+        "category": "Salary",
+        "question": "What is your expected salary?",
+        "answer_type": "number",
+        "mandatory": true,
+        "importance": 3,
+        "language": "en",
+        "scoring_weight": 1.0,
+        "follow_up_allowed": true
+    },
+
+    {
+        "question_id": "NOTICE_001",
+        "role": "python_developer",
+        "category": "Notice Period",
+        "question": "What is your notice period?",
+        "answer_type": "text",
+        "mandatory": true,
+        "importance": 4,
+        "language": "en",
+        "scoring_weight": 1.5,
+        "follow_up_allowed": false
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "question_id": "INTRO_001",
+        "role": "data_scientist",
+        "category": "Introduction",
+        "question": "Can you briefly introduce yourself?",
+        "answer_type": "text",
+        "mandatory": true,
+        "importance": 3
+    },
+
+    {
+        "question_id": "EXP_001",
+        "role": "data_scientist",
+        "category": "Experience",
+        "question": "How many years of Machine Learning experience do you have?",
+        "answer_type": "number",
+        "mandatory": true,
+        "importance": 5
+    },
+
+    {
+        "question_id": "SKILL_001",
+        "role": "data_scientist",
+        "category": "Skills",
+        "question": "Which ML frameworks have you used?",
+        "answer_type": "text",
+        "mandatory": true,
+        "importance": 5
+    },
+
+    {
+        "question_id": "SKILL_002",
+        "role": "data_scientist",
+        "category": "Skills",
+        "question": "Have you worked with Python and SQL?",
+        "answer_type": "boolean",
+        "mandatory": true,
+        "importance": 5
+    },
+
+    {
+        "question_id": "NOTICE_001",
+        "role": "data_scientist",
+        "category": "Notice Period",
+        "question": "What is your notice period?",
+        "answer_type": "text",
+        "mandatory": true,
+        "importance": 4
+    }
+]

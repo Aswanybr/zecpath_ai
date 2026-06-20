@@ -1,0 +1,51 @@
+[
+    {
+        "question_id": "INTRO_001",
+        "role": "uiux_designer",
+        "category": "Introduction",
+        "question": "Can you briefly introduce yourself?",
+        "answer_type": "text",
+        "mandatory": true,
+        "importance": 3
+    },
+
+    {
+        "question_id": "EXP_001",
+        "role": "uiux_designer",
+        "category": "Experience",
+        "question": "How many years of UI/UX experience do you have?",
+        "answer_type": "number",
+        "mandatory": true,
+        "importance": 5
+    },
+
+    {
+        "question_id": "SKILL_001",
+        "role": "uiux_designer",
+        "category": "Skills",
+        "question": "Which design tools do you use regularly?",
+        "answer_type": "text",
+        "mandatory": true,
+        "importance": 5
+    },
+
+    {
+        "question_id": "SKILL_002",
+        "role": "uiux_designer",
+        "category": "Skills",
+        "question": "Do you have experience conducting usability testing?",
+        "answer_type": "boolean",
+        "mandatory": true,
+        "importance": 5
+    },
+
+    {
+        "question_id": "NOTICE_001",
+        "role": "uiux_designer",
+        "category": "Notice Period",
+        "question": "What is your notice period?",
+        "answer_type": "text",
+        "mandatory": true,
+        "importance": 4
+    }
+]
