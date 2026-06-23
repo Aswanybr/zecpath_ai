@@ -1,0 +1,50 @@
+{
+    "intent": "experience_information",
+    "skills": [
+        "python",
+        "django",
+        "flask"
+    ],
+    "experience": "2 year",
+    "availability": null,
+    "salary_expectation": null,
+    "off_topic": true,
+    "missing_details": false,
+    "vague_response": false,
+    "confidence": 0.41,
+    "structured_answer": {
+        "text": "I have 2 years of experience in Python. I worked on Flask and Django projects.",
+        "tokens": [
+            "I",
+            "have",
+            "2",
+            "years",
+            "of",
+            "experience",
+            "in",
+            "Python.",
+            "I",
+            "worked",
+            "on",
+            "Flask",
+            "and",
+            "Django",
+            "projects."
+        ],
+        "entities": {
+            "skills": [
+                "python",
+                "django",
+                "flask"
+            ],
+            "experience": "2 year",
+            "availability": null,
+            "salary_expectation": null
+        },
+        "intent": "experience_information",
+        "intent_confidence": 0.72,
+        "off_topic": true,
+        "vague": false,
+        "missing_details": false
+    }
+}
