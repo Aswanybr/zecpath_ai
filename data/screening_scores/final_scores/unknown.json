@@ -1,0 +1,39 @@
+{
+    "candidate_id": "unknown",
+    "question_count": 1,
+    "question_scores": [
+        54.5
+    ],
+    "question_breakdown": [
+        {
+            "question_id": "unknown",
+            "candidate_id": "unknown",
+            "answer_text": "",
+            "clarity": 30,
+            "relevance": 20,
+            "completeness": 100,
+            "consistency": 100,
+            "component_scores": {
+                "clarity": 30,
+                "relevance": 20,
+                "completeness": 100,
+                "consistency": 100
+            },
+            "final_score": 54.5,
+            "score_explanation": [
+                "Answer is brief and may lack clarity.",
+                "The answer appears off-topic, reducing relevance.",
+                "The response includes strong detail and completeness.",
+                "The response is consistent and specific."
+            ]
+        }
+    ],
+    "average_component_scores": {
+        "clarity": 30.0,
+        "relevance": 20.0,
+        "completeness": 100.0,
+        "consistency": 100.0
+    },
+    "final_screening_score": 54.5,
+    "status": "Review"
+}
