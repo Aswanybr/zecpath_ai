@@ -1,0 +1,18 @@
+{
+    "intent": "experience_information",
+    "response_length": 15,
+    "response_pace": "Normal",
+    "communication_strength": "Strong",
+    "confidence": {
+        "confidence_score": 100,
+        "hesitation_count": 0,
+        "uncertainty_count": 0,
+        "contradictions": []
+    },
+    "sentiment": {
+        "sentiment": "Neutral",
+        "positive_signals": 0,
+        "negative_signals": 0,
+        "sentiment_score": 0
+    }
+}
