@@ -1,0 +1,33 @@
+{
+    "candidate_id": "unknown",
+    "overall_status": "Review",
+    "overall_screening_score": 54.5,
+    "communication_strength": "Strong",
+    "confidence_score": 100,
+    "sentiment": "Neutral",
+    "key_answers": {
+        "intent": "experience_information",
+        "skills": [
+            "python",
+            "django",
+            "flask"
+        ],
+        "experience": "2 year",
+        "salary_expectation": null,
+        "availability": null
+    },
+    "strengths": [
+        "Strong communication confidence",
+        "Strong communication skills",
+        "Relevant technical skills confirmed",
+        "Experience confirmed (2 year)"
+    ],
+    "risks": [
+        "Salary expectation not provided",
+        "Availability not provided"
+    ],
+    "missing_information": [
+        "Salary Expectation",
+        "Availability"
+    ]
+}
