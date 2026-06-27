@@ -1,0 +1,12 @@
+{
+    "states": [
+        "START",
+        "ASK_QUESTION",
+        "WAITING_FOR_RESPONSE",
+        "PROCESSING_RESPONSE",
+        "FOLLOW_UP",
+        "RETRY",
+        "NEXT_QUESTION",
+        "END"
+    ]
+}
