@@ -1,0 +1,5 @@
+{
+    "screening_threshold": 70,
+    "confidence_threshold": 55,
+    "optimization": "Thresholds reduced"
+}

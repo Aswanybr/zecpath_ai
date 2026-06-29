@@ -1,0 +1,6 @@
+{
+    "original_state": "FOLLOW_UP",
+    "optimized_state": "FOLLOW_UP",
+    "retry_enabled": true,
+    "fallback_enabled": true
+}

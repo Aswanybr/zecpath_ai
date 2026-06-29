@@ -1,0 +1,14 @@
+{
+    "tested_candidates": 1,
+    "average_screening_score": 54.5,
+    "average_confidence": 100,
+    "communication_strength": "Strong",
+    "sentiment_distribution": {
+        "Neutral": 1
+    },
+    "intent_distribution": {
+        "experience_information": 1
+    },
+    "conversation_state": "FOLLOW_UP",
+    "pipeline_status": "PASS"
+}
