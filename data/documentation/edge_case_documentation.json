@@ -1,0 +1,15 @@
+{
+    "summary": {
+        "audio_quality": "Good",
+        "language_mix": false,
+        "missing_answer": false,
+        "background_noise": false
+    },
+    "system_action": {
+        "status": "Continue",
+        "message": null
+    },
+    "recommendation": [
+        "No issues detected. Continue the interview."
+    ]
+}

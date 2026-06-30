@@ -1,0 +1,21 @@
+{
+    "edge_case_detection": {
+        "audio_quality": {
+            "audio_quality": "Good",
+            "reason": "Transcript usable"
+        },
+        "language_mix": {
+            "language_mix": false,
+            "malayalam_words_detected": 0
+        },
+        "missing_answer": false,
+        "background_noise": {
+            "background_noise": false,
+            "noise_markers": 0
+        }
+    },
+    "system_action": {
+        "status": "Continue",
+        "message": null
+    }
+}
