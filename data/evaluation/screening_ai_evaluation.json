@@ -1,0 +1,92 @@
+{
+    "candidate_information": {
+        "intent": "experience_information",
+        "skills": [
+            "python",
+            "django",
+            "flask"
+        ],
+        "experience": "2 year"
+    },
+    "screening_result": {
+        "screening_score": 54.5,
+        "status": "Review"
+    },
+    "behavior_analysis": {
+        "communication_strength": "Strong",
+        "confidence": {
+            "confidence_score": 100,
+            "hesitation_count": 0,
+            "uncertainty_count": 0,
+            "contradictions": []
+        },
+        "sentiment": {
+            "sentiment": "Neutral",
+            "positive_signals": 0,
+            "negative_signals": 0,
+            "sentiment_score": 0
+        }
+    },
+    "screening_report": {
+        "candidate_id": "unknown",
+        "overall_status": "Review",
+        "overall_screening_score": 54.5,
+        "communication_strength": "Strong",
+        "confidence_score": 100,
+        "sentiment": "Neutral",
+        "key_answers": {
+            "intent": "experience_information",
+            "skills": [
+                "python",
+                "django",
+                "flask"
+            ],
+            "experience": "2 year",
+            "salary_expectation": null,
+            "availability": null
+        },
+        "strengths": [
+            "Strong communication confidence",
+            "Strong communication skills",
+            "Relevant technical skills confirmed",
+            "Experience confirmed (2 year)"
+        ],
+        "risks": [
+            "Salary expectation not provided",
+            "Availability not provided"
+        ],
+        "missing_information": [
+            "Salary Expectation",
+            "Availability"
+        ]
+    },
+    "conversation_flow": {
+        "state": "FOLLOW_UP",
+        "question": "Could you describe one project where you applied your experience?"
+    },
+    "edge_case_analysis": {
+        "edge_case_detection": {
+            "audio_quality": {
+                "audio_quality": "Good",
+                "reason": "Transcript usable"
+            },
+            "language_mix": {
+                "language_mix": false,
+                "malayalam_words_detected": 0
+            },
+            "missing_answer": false,
+            "background_noise": {
+                "background_noise": false,
+                "noise_markers": 0
+            }
+        },
+        "system_action": {
+            "status": "Continue",
+            "message": null
+        }
+    },
+    "overall_ai_recommendation": {
+        "decision": "Review",
+        "reason": "Good communication but screening score requires recruiter review."
+    }
+}
