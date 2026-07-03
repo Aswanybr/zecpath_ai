@@ -1,0 +1,26 @@
+{
+    "current_question": "Tell me about a project you worked on.",
+    "candidate_answer": "I developed REST APIs using Django and deployed them on AWS.",
+    "trigger": {
+        "trigger": "Deepening",
+        "follow_up": "Can you tell me more about your experience?"
+    },
+    "difficulty": {
+        "difficulty": "Medium",
+        "follow_up_type": "Clarification",
+        "question": "Could you expand a little more on your answer?"
+    },
+    "repetition": {
+        "allowed": true,
+        "question": "Can you tell me more about your experience?"
+    },
+    "conversation": {
+        "questions_asked": 1,
+        "history": [
+            {
+                "question": "Tell me about a project you worked on.",
+                "answer": "I developed REST APIs using Django and deployed them on AWS."
+            }
+        ]
+    }
+}
