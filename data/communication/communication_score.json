@@ -1,0 +1,37 @@
+{
+    "communication_score": 94.75,
+    "fluency": {
+        "fluency_score": 100,
+        "sentence_count": 2,
+        "average_sentence_length": 7.5,
+        "filler_count": 0
+    },
+    "grammar": {
+        "grammar_score": 100,
+        "issues": []
+    },
+    "vocabulary": {
+        "vocabulary_score": 100,
+        "total_words": 15,
+        "unique_words": 14,
+        "vocabulary_ratio": 0.93
+    },
+    "clarity": {
+        "clarity_score": 95,
+        "sentence_count": 2,
+        "average_sentence_length": 7.5,
+        "connectors_used": 0
+    },
+    "filler_words": {
+        "filler_score": 100,
+        "total_fillers": 0,
+        "detected_fillers": {}
+    },
+    "answer_structure": {
+        "structure_score": 70,
+        "introduction": true,
+        "body": true,
+        "conclusion": false,
+        "sentence_count": 2
+    }
+}
