@@ -1,0 +1,27 @@
+{
+    "candidate_id": "UNKNOWN",
+    "intent": "experience_information",
+    "confidence": {
+        "confidence_score": 100,
+        "hesitation_count": 0,
+        "repeated_words": 0,
+        "detected_hesitations": {},
+        "repeated_word_list": []
+    },
+    "sentiment": {
+        "positive_signals": 0,
+        "negative_signals": 0,
+        "sentiment_score": 50,
+        "sentiment": "Neutral"
+    },
+    "contradictions": {
+        "contradictions": [],
+        "count": 0,
+        "contradiction_score": 100
+    },
+    "stress": {
+        "stress_score": 0
+    },
+    "communication_score": 94.75,
+    "behavioral_confidence_score": 91.19
+}
