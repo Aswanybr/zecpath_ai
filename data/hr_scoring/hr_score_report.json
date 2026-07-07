@@ -1,0 +1,20 @@
+{
+    "candidate_id": "UNKNOWN",
+    "interview_questions": 1,
+    "score_breakdown": {
+        "answer_relevance": 60,
+        "communication_score": 94.75,
+        "confidence_score": 91.19,
+        "consistency_score": 70
+    },
+    "weights": {
+        "relevance": 0.35,
+        "communication": 0.25,
+        "confidence": 0.25,
+        "consistency": 0.15
+    },
+    "weighted_score": 77.98,
+    "normalized_score": 77.98,
+    "final_hr_score": 77.98,
+    "recommendation": "Hire"
+}
