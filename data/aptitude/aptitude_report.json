@@ -1,0 +1,74 @@
+{
+    "candidate_id": "UNKNOWN",
+    "answer_source": {
+        "source_file": "data/understood_answers\\sample_answer.json",
+        "source_type": "latest_understood_answer"
+    },
+    "candidate_answer": "I have 2 years of experience in Python. I worked on Flask and Django projects.",
+    "aptitude_design": {
+        "objective": "Assess reasoning, situational judgment, and problem-solving clarity",
+        "scoring_components": [
+            "logical_reasoning",
+            "scenario_evaluation",
+            "problem_solving",
+            "answer_pattern"
+        ],
+        "scenario_count": 3,
+        "question_bank_source": "aptitude_evaluation/config/scenario_bank.json"
+    },
+    "scenario": {
+        "scenario_id": "SJ003",
+        "category": "decision_making",
+        "difficulty": "hard",
+        "question": "You have two urgent tasks with the same deadline. What is your approach?",
+        "expected_keywords": [
+            "prioritize",
+            "impact",
+            "communicate",
+            "plan"
+        ],
+        "ideal_answer_structure": [
+            "Identify the business or customer impact of each task",
+            "Explain how you would prioritize based on urgency and importance",
+            "Share a clear plan and timeline",
+            "Communicate the decision to stakeholders proactively"
+        ],
+        "evaluation_dimensions": [
+            "decision_quality",
+            "prioritization",
+            "planning",
+            "stakeholder_management"
+        ]
+    },
+    "logical_reasoning": {
+        "logical_reasoning_score": 0.0,
+        "matched_keywords": [],
+        "supporting_terms": [],
+        "total_keywords": 4
+    },
+    "scenario_evaluation": {
+        "scenario_score": 0.0,
+        "matched_keywords": [],
+        "missing_keywords": [
+            "prioritize",
+            "impact",
+            "communicate",
+            "plan"
+        ],
+        "context_terms": []
+    },
+    "problem_solving": {
+        "problem_solving_score": 0,
+        "detected_keywords": []
+    },
+    "answer_pattern": {
+        "answer_pattern_score": 0.0,
+        "pattern": {
+            "identified_problem": false,
+            "explained_reasoning": false,
+            "proposed_solution": false,
+            "mentioned_result": false
+        }
+    },
+    "aptitude_score": 0.0
+}
