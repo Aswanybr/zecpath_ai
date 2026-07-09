@@ -1,0 +1,30 @@
+{
+    "candidate_id": "<candidate-id>",
+    "candidate_strengths": [
+        "<strength-1>",
+        "<strength-2>"
+    ],
+    "candidate_weaknesses": [
+        "<weakness-1>",
+        "<weakness-2>"
+    ],
+    "cultural_fit_indicators": [
+        "<indicator-1>",
+        "<indicator-2>"
+    ],
+    "risk_flags": [
+        "<risk-1>",
+        "<risk-2>"
+    ],
+    "inconsistencies": [
+        "<inconsistency-1>"
+    ],
+    "overall_hr_performance": {
+        "score": 0,
+        "recommendation": "Review",
+        "summary": "<one-paragraph-summary>",
+        "strengths_count": 0,
+        "risk_count": 0
+    },
+    "natural_language_report": "<recruiter-ready narrative>"
+}

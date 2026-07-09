@@ -1,0 +1,38 @@
+{
+    "candidate_id": "UNKNOWN",
+    "candidate_strengths": [
+        "Strong verbal communication and clarity",
+        "Confident and composed delivery",
+        "Relevant technical skills were demonstrated",
+        "Experience was clearly referenced (2 year)",
+        "Overall interview performance met the hiring threshold"
+    ],
+    "candidate_weaknesses": [
+        "Some responses were not fully on-topic",
+        "Compensation expectations were not clarified",
+        "Availability details were not provided"
+    ],
+    "cultural_fit_indicators": [
+        "Communication style appears collaborative and professional",
+        "Interview tone suggests professionalism and composure",
+        "Responses were consistent and low-risk from a behavioral standpoint",
+        "The candidate appears aligned with the role\u2019s core skill requirements"
+    ],
+    "risk_flags": [
+        "Responses included off-topic content",
+        "Salary expectations were not surfaced",
+        "Work availability was not clarified"
+    ],
+    "inconsistencies": [
+        "The candidate provided a direct answer but drifted off-topic in places",
+        "The candidate appeared confident, yet the tone remained neutral"
+    ],
+    "overall_hr_performance": {
+        "score": 77.98,
+        "recommendation": "Hire",
+        "summary": "The candidate delivered a solid interview performance with 5 strengths and 3 areas to improve. Key risks include: Responses included off-topic content; Salary expectations were not surfaced.",
+        "strengths_count": 5,
+        "risk_count": 3
+    },
+    "natural_language_report": "Candidate UNKNOWN showed a balanced interview profile. Strengths include Strong verbal communication and clarity; Confident and composed delivery; Relevant technical skills were demonstrated; Experience was clearly referenced (2 year); Overall interview performance met the hiring threshold. Weaknesses include Some responses were not fully on-topic; Compensation expectations were not clarified; Availability details were not provided. Cultural fit indicators suggest Communication style appears collaborative and professional; Interview tone suggests professionalism and composure; Responses were consistent and low-risk from a behavioral standpoint; The candidate appears aligned with the role\u2019s core skill requirements. Risk flags include Responses included off-topic content; Salary expectations were not surfaced; Work availability was not clarified. Inconsistencies noted: The candidate provided a direct answer but drifted off-topic in places; The candidate appeared confident, yet the tone remained neutral. Overall HR performance is 77.98/100 with a recommendation of Hire."
+}
