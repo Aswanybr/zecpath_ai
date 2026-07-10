@@ -1,0 +1,7 @@
+{
+  "issues_found": 1,
+  "recommendations": [
+    "Reduce false rejection threshold",
+    "Improve confidence scoring calibration"
+  ]
+}

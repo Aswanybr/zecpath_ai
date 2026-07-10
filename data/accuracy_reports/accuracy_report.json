@@ -1,0 +1,31 @@
+{
+  "total_candidates": 4,
+  "correct_matches": 3,
+  "accuracy": 75.0,
+  "comparisons": [
+    {
+      "candidate_id": "CONF001",
+      "ai_decision": "Hire",
+      "manual_decision": "Strong Hire",
+      "match": false
+    },
+    {
+      "candidate_id": "HES001",
+      "ai_decision": "Review",
+      "manual_decision": "Review",
+      "match": true
+    },
+    {
+      "candidate_id": "INEXP001",
+      "ai_decision": "Hire",
+      "manual_decision": "Hire",
+      "match": true
+    },
+    {
+      "candidate_id": "OVER001",
+      "ai_decision": "Strong Hire",
+      "manual_decision": "Strong Hire",
+      "match": true
+    }
+  ]
+}

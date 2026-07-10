@@ -1,0 +1,46 @@
+[
+  {
+    "candidate_id": "CONF001",
+    "candidate_type": "confident",
+    "communication_score": 94.75,
+    "confidence_score": 91.19,
+    "hr_score": 77.98,
+    "aptitude_score": 0.0,
+    "summary_recommendation": "Hire",
+    "recommendation": "Hire",
+    "manual_decision": "Strong Hire"
+  },
+  {
+    "candidate_id": "HES001",
+    "candidate_type": "hesitant",
+    "communication_score": 94.75,
+    "confidence_score": 91.19,
+    "hr_score": 77.98,
+    "aptitude_score": 0.0,
+    "summary_recommendation": "Hire",
+    "recommendation": "Review",
+    "manual_decision": "Review"
+  },
+  {
+    "candidate_id": "INEXP001",
+    "candidate_type": "inexperienced",
+    "communication_score": 94.75,
+    "confidence_score": 91.19,
+    "hr_score": 77.98,
+    "aptitude_score": 0.0,
+    "summary_recommendation": "Hire",
+    "recommendation": "Hire",
+    "manual_decision": "Hire"
+  },
+  {
+    "candidate_id": "OVER001",
+    "candidate_type": "overqualified",
+    "communication_score": 94.75,
+    "confidence_score": 91.19,
+    "hr_score": 77.98,
+    "aptitude_score": 0.0,
+    "summary_recommendation": "Hire",
+    "recommendation": "Strong Hire",
+    "manual_decision": "Strong Hire"
+  }
+]
