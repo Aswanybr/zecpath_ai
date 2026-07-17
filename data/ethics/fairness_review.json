@@ -1,0 +1,20 @@
+{
+    "fairness_status": "PASS",
+    "prohibited_fields_found": [],
+    "approved_scoring_fields": [
+        "skills",
+        "experience",
+        "projects",
+        "communication",
+        "confidence",
+        "logical_reasoning",
+        "problem_solving",
+        "screening_score",
+        "hr_score",
+        "aptitude_score",
+        "ats_score"
+    ],
+    "review_notes": [
+        "No prohibited demographic fields detected."
+    ]
+}

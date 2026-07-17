@@ -1,0 +1,47 @@
+{
+    "consent": {
+        "eligible": true,
+        "reason": "Consent verified."
+    },
+    "fairness": {
+        "fairness_status": "PASS",
+        "prohibited_fields_found": [],
+        "approved_scoring_fields": [
+            "skills",
+            "experience",
+            "projects",
+            "communication",
+            "confidence",
+            "logical_reasoning",
+            "problem_solving",
+            "screening_score",
+            "hr_score",
+            "aptitude_score",
+            "ats_score"
+        ],
+        "review_notes": [
+            "No prohibited demographic fields detected."
+        ]
+    },
+    "explainability": {
+        "explainability_notes": [
+            "Candidate demonstrated excellent communication.",
+            "Candidate appeared confident throughout the interview.",
+            "HR interview responses were consistent and relevant.",
+            "Strong logical reasoning and problem-solving ability."
+        ],
+        "recommendation": "Strong Hire"
+    },
+    "compliance": {
+        "overall_readiness": 100.0,
+        "status": "READY",
+        "checklist": {
+            "candidate_consent": true,
+            "fairness_review": true,
+            "explainability": true,
+            "demographic_bias_removed": true,
+            "data_retention_defined": true,
+            "candidate_data_deletion": true
+        }
+    }
+}
