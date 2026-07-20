@@ -1,0 +1,30 @@
+{
+    "status": "ready_for_demo",
+    "candidate_id": "UNKNOWN",
+    "final_score": 77.98,
+    "final_recommendation": "Hire",
+    "architecture_overview": {
+        "interview_design": "Role-based question bank with phased HR flow",
+        "scoring_logic": "Weighted relevance, communication, confidence, and consistency scores",
+        "output_layers": "Interview design, scoring report, candidate recommendation"
+    },
+    "scoring_logic": {
+        "weights": {
+            "relevance": 0.35,
+            "communication": 0.25,
+            "confidence": 0.25,
+            "consistency": 0.15
+        },
+        "components": {
+            "answer_relevance": 60,
+            "communication_score": 94.75,
+            "confidence_score": 91.19,
+            "consistency_score": 70
+        }
+    },
+    "handover_notes": [
+        "Interview flow and scoring outputs are generated automatically",
+        "Demo dataset is stored for repeatable stakeholder review",
+        "Manager feedback is captured for product refinement"
+    ]
+}

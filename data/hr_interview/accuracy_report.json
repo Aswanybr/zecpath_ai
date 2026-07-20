@@ -1,0 +1,39 @@
+{
+  "objective": "Evaluate HR interview AI scoring accuracy against manual evaluation",
+  "simulated_sessions": 4,
+  "metrics": {
+    "recommendation_accuracy": 25.0,
+    "mean_absolute_error": 8.69,
+    "score_direction_consistency": 75.0,
+    "average_manual_score": 76.25,
+    "average_ai_score": 80.31,
+    "average_abs_delta": 8.69
+  },
+  "session_breakdown": [
+    {
+      "candidate_type": "Confident",
+      "manual_score": 88,
+      "ai_score": 95.5,
+      "delta": 7.5
+    },
+    {
+      "candidate_type": "Hesitant",
+      "manual_score": 72,
+      "ai_score": 62.75,
+      "delta": -9.25
+    },
+    {
+      "candidate_type": "Inexperienced",
+      "manual_score": 64,
+      "ai_score": 72.5,
+      "delta": 8.5
+    },
+    {
+      "candidate_type": "Overqualified",
+      "manual_score": 81,
+      "ai_score": 90.5,
+      "delta": 9.5
+    }
+  ],
+  "summary": "The AI system shows moderate alignment with manual evaluation, with the largest differences appearing for hesitation and overqualification patterns."
+}

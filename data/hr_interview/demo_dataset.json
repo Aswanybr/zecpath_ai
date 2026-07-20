@@ -1,0 +1,116 @@
+{
+    "candidate_profile": {
+        "candidate_id": "UNKNOWN",
+        "role_type": "Technical",
+        "experience_level": "Experienced",
+        "profile_summary": "Experienced candidate with polished delivery, strong examples, and a structured communication style."
+    },
+    "interview_flow": {
+        "experience_level": "Experienced",
+        "role_type": "Technical",
+        "phases": [
+            {
+                "phase": "INTRODUCTION",
+                "questions": [
+                    {
+                        "id": "INTRO_001",
+                        "question": "Tell me about yourself."
+                    }
+                ]
+            },
+            {
+                "phase": "CORE_HR",
+                "questions": [
+                    {
+                        "id": "CAREER_001",
+                        "question": "Can you describe your career journey so far?"
+                    },
+                    {
+                        "id": "SW_001",
+                        "question": "What are your greatest strengths?"
+                    },
+                    {
+                        "id": "SW_002",
+                        "question": "What is one weakness you are currently improving?"
+                    },
+                    {
+                        "id": "TEAM_001",
+                        "question": "Describe a time you worked successfully in a team."
+                    },
+                    {
+                        "id": "TEAM_002",
+                        "question": "How do you handle disagreements with teammates?"
+                    },
+                    {
+                        "id": "GOAL_001",
+                        "question": "Where do you see yourself in the next five years?"
+                    },
+                    {
+                        "id": "AVAIL_001",
+                        "question": "When can you join our organization?"
+                    }
+                ]
+            },
+            {
+                "phase": "ROLE_BASED",
+                "questions": [
+                    {
+                        "id": "AVAIL_002",
+                        "question": "Are you open to relocation if required?"
+                    },
+                    {
+                        "id": "EXP_001",
+                        "question": "Tell me about your most recent role."
+                    },
+                    {
+                        "id": "EXP_002",
+                        "question": "What was your biggest professional achievement?"
+                    },
+                    {
+                        "id": "TECH_001",
+                        "question": "Explain a technically challenging project you worked on."
+                    },
+                    {
+                        "id": "TECH_002",
+                        "question": "How do you keep your technical skills up to date?"
+                    }
+                ]
+            },
+            {
+                "phase": "CLOSING",
+                "questions": [
+                    {
+                        "id": "CLOSE_001",
+                        "question": "Do you have any questions for us?"
+                    }
+                ]
+            }
+        ]
+    },
+    "simulated_answers": [
+        {
+            "question_id": "INTRO_001",
+            "question": "Tell me about yourself.",
+            "sample_answer": "I am a senior software engineer with seven years of experience building data-driven products and leading cross-functional delivery."
+        },
+        {
+            "question_id": "EXP_001",
+            "question": "Tell me about your most recent role.",
+            "sample_answer": "In my most recent role I led a platform team, improved reliability, and mentored engineers while delivering measurable product outcomes."
+        },
+        {
+            "question_id": "TECH_001",
+            "question": "Explain a technically challenging project you worked on.",
+            "sample_answer": "I led an ML-driven forecasting initiative that reduced pipeline latency and improved forecasting accuracy through careful experimentation and stable release practices."
+        }
+    ],
+    "scoring_breakdown": {
+        "answer_relevance": 60,
+        "communication_score": 94.75,
+        "confidence_score": 91.19,
+        "consistency_score": 70
+    },
+    "weighted_score": 77.98,
+    "final_hr_score": 77.98,
+    "recommendation": "Hire"
+}

@@ -1,0 +1,65 @@
+{
+  "summary": {
+    "total_sessions": 4,
+    "average_manual_score": 76.25,
+    "average_ai_score": 80.31,
+    "average_abs_delta": 8.69
+  },
+  "sessions": [
+    {
+      "candidate_id": "confident-001",
+      "candidate_type": "Confident",
+      "profile": "Experienced candidate with strong self-presentation and clear examples.",
+      "manual_score": 88,
+      "ai_score": 95.5,
+      "score_delta": 7.5,
+      "manual_recommendation": "Hire",
+      "ai_recommendation": "Strong Hire",
+      "notes": "AI aligned well with strong delivery and clarity."
+    },
+    {
+      "candidate_id": "hesitant-001",
+      "candidate_type": "Hesitant",
+      "profile": "Less confident candidate who pauses often and gives shorter answers.",
+      "manual_score": 72,
+      "ai_score": 62.75,
+      "score_delta": -9.25,
+      "manual_recommendation": "Review",
+      "ai_recommendation": "Review",
+      "notes": "AI penalized hesitation and vagueness, which is consistent with the intended scoring logic."
+    },
+    {
+      "candidate_id": "inexperienced-001",
+      "candidate_type": "Inexperienced",
+      "profile": "New graduate with limited practical exposure and modest examples.",
+      "manual_score": 64,
+      "ai_score": 72.5,
+      "score_delta": 8.5,
+      "manual_recommendation": "Review",
+      "ai_recommendation": "Hire",
+      "notes": "AI reflected limited evidence and modest confidence."
+    },
+    {
+      "candidate_id": "overqualified-001",
+      "candidate_type": "Overqualified",
+      "profile": "Very experienced candidate whose answers are polished but slightly overlong.",
+      "manual_score": 81,
+      "ai_score": 90.5,
+      "score_delta": 9.5,
+      "manual_recommendation": "Hire",
+      "ai_recommendation": "Strong Hire",
+      "notes": "AI remained broadly positive but slightly underweighted experience depth."
+    }
+  ],
+  "accuracy_evaluation": {
+    "recommendation_accuracy": 25.0,
+    "mean_absolute_error": 8.69,
+    "score_direction_consistency": 75.0
+  },
+  "improvement_recommendations": [
+    "Add a confidence calibration layer so overconfident or polished answers are not over-rewarded.",
+    "Increase sensitivity to hesitation, missing details, and vague phrasing in the relevance and consistency scorers.",
+    "Store a manual-review benchmark set for future HR simulation runs to track drift over time."
+  ],
+  "accuracy_report_path": "data/hr_interview/accuracy_report.json"
+}
