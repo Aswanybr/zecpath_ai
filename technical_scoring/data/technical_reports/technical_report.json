@@ -1,0 +1,13 @@
+{
+    "candidate_id": "C001",
+    "question_id": "PY101",
+    "difficulty": "hard",
+    "skill_breakdown": {
+        "accuracy": 90.0,
+        "depth": 82.0,
+        "reasoning": 88.0,
+        "applicability": 80.0
+    },
+    "weighted_score": 85.7,
+    "normalized_score": 94.27
+}
