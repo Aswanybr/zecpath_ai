@@ -1,0 +1,12 @@
+{
+    "candidate_id": "C101",
+    "integrity_score": 62,
+    "risk_level": "High",
+    "events": [
+        "Repeated tab switching",
+        "Screen focus lost"
+    ],
+    "warnings": [
+        "Manual review recommended"
+    ]
+}

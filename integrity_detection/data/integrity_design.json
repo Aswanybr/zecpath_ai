@@ -1,0 +1,29 @@
+{
+    "signals": [
+        "tab_switching",
+        "screen_focus_loss",
+        "external_voice",
+        "repeated_gaze_deviation",
+        "long_response_pause"
+    ],
+    "risk_levels": [
+        "Low",
+        "Moderate",
+        "High",
+        "Critical"
+    ],
+    "warning_rules": {
+        "tab_switching_warning": "Display interview warning.",
+        "screen_focus_warning": "Record integrity event.",
+        "external_voice_detected": "Increase integrity risk score.",
+        "critical_risk": "Recommend manual HR review."
+    },
+    "processing_pipeline": [
+        "Signal Collection",
+        "Threshold Evaluation",
+        "Pattern Recognition",
+        "Risk Assessment",
+        "Warning Generation",
+        "Integrity Reporting"
+    ]
+}
