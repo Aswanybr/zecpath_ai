@@ -1,0 +1,37 @@
+{
+    "supported_tasks": [
+        "coding_problem",
+        "debugging_task",
+        "file_based_task",
+        "system_design_task"
+    ],
+    "evaluation_metrics": [
+        "correctness",
+        "efficiency",
+        "code_quality",
+        "problem_solving"
+    ],
+    "time_limits": {
+        "easy": {
+            "minutes": 20
+        },
+        "medium": {
+            "minutes": 40
+        },
+        "hard": {
+            "minutes": 60
+        },
+        "expert": {
+            "minutes": 90
+        }
+    },
+    "captured_outputs": {
+        "captured_outputs": [
+            "submitted_code",
+            "execution_result",
+            "compiler_output",
+            "runtime",
+            "memory_usage"
+        ]
+    }
+}
