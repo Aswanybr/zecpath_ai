@@ -1,0 +1,16 @@
+{
+    "candidate_id": "TEST001",
+    "role": "Software Engineer",
+    "ats_summary": {},
+    "screening_summary": {},
+    "hr_summary": {},
+    "technical_summary": {},
+    "behavior_summary": {},
+    "integrity_summary": {},
+    "overall_score": {
+        "hiring_fit": 85
+    },
+    "final_decision": {
+        "decision": "Selected"
+    }
+}
