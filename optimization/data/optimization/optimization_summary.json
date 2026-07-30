@@ -1,0 +1,24 @@
+{
+    "candidate_id": "TEST001",
+    "false_positive": [],
+    "false_negative": [],
+    "intent": {
+        "intent": "answer",
+        "status": "accepted",
+        "confidence": 0.9
+    },
+    "thresholds": {
+        "selection_threshold": 80,
+        "review_threshold": 60
+    },
+    "consistency": {
+        "score_difference": 6,
+        "consistency_score": 94
+    },
+    "performance": {
+        "module": "Optimization Engine",
+        "execution_time_seconds": 0.0,
+        "status": "PASS"
+    },
+    "system_status": "Optimized"
+}
