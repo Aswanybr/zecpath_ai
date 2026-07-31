@@ -1,0 +1,7 @@
+{
+    "transcripts_retention_days": 180,
+    "reports_retention_days": 365,
+    "audit_logs_retention_days": 730,
+    "auto_delete": true,
+    "consent_required": true
+}

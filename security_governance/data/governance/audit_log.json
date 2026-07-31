@@ -1,0 +1,26 @@
+[
+    {
+        "timestamp": "2026-07-31T09:49:26.635145",
+        "candidate_id": "C001",
+        "event": "HIRING_EVALUATION",
+        "details": {
+            "decision": "Selected"
+        }
+    },
+    {
+        "timestamp": "2026-07-31T09:49:48.162945",
+        "candidate_id": "C001",
+        "event": "HIRING_EVALUATION",
+        "details": {
+            "decision": "Selected"
+        }
+    },
+    {
+        "timestamp": "2026-07-31T09:51:17.909334",
+        "candidate_id": "TEST001",
+        "event": "HIRING_EVALUATION",
+        "details": {
+            "decision": "Selected"
+        }
+    }
+]

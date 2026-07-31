@@ -1,0 +1,8 @@
+{
+    "encrypted": true,
+    "payload": {
+        "candidate_id": "TEST001",
+        "decision": "Selected",
+        "consent": true
+    }
+}
