@@ -1,0 +1,278 @@
+{
+  "summary": {
+    "report_name": "Day 56 Full System Simulation",
+    "candidate_count": 4,
+    "pipeline_stages": [
+      "resume_upload",
+      "ats_scoring",
+      "screening",
+      "hr_interview",
+      "technical_interview",
+      "final_decision"
+    ],
+    "overall_ai_recommendation": "Hire",
+    "status": "completed"
+  },
+  "performance_analysis": {
+    "accuracy_against_human_judgment": 75.0,
+    "alignment_rate": 25.0,
+    "average_ats_score": 10.86,
+    "average_screening_score": 54.5,
+    "average_hr_score": 77.98,
+    "average_technical_score": 88.5,
+    "observed_inconsistencies": [
+      "Reduce false rejection threshold",
+      "Improve confidence scoring calibration"
+    ],
+    "notable_patterns": [
+      "The system was strongest when screening and HR signals were aligned.",
+      "Technical interview scores remained consistently stronger than screening scores."
+    ]
+  },
+  "comparison_with_human_judgment": {
+    "matches": [
+      {
+        "candidate_id": "HES001",
+        "resume_upload": {
+          "status": "completed",
+          "resume_file": "resume1_sections.json",
+          "job_profile": "jd1"
+        },
+        "ats_scoring": {
+          "score": 10.86,
+          "status": "completed"
+        },
+        "screening": {
+          "score": 54.5,
+          "status": "Review"
+        },
+        "hr_interview": {
+          "score": 77.98,
+          "recommendation": "Review"
+        },
+        "technical_interview": {
+          "score": 88.5,
+          "recommendation": "Strong Hire"
+        },
+        "final_decision": {
+          "ai_decision": "Review",
+          "human_decision": "Review",
+          "match": true
+        }
+      }
+    ],
+    "mismatches": [
+      {
+        "candidate_id": "CONF001",
+        "resume_upload": {
+          "status": "completed",
+          "resume_file": "resume1_sections.json",
+          "job_profile": "jd1"
+        },
+        "ats_scoring": {
+          "score": 10.86,
+          "status": "completed"
+        },
+        "screening": {
+          "score": 54.5,
+          "status": "Review"
+        },
+        "hr_interview": {
+          "score": 77.98,
+          "recommendation": "Hire"
+        },
+        "technical_interview": {
+          "score": 88.5,
+          "recommendation": "Strong Hire"
+        },
+        "final_decision": {
+          "ai_decision": "Review",
+          "human_decision": "Strong Hire",
+          "match": false
+        }
+      },
+      {
+        "candidate_id": "INEXP001",
+        "resume_upload": {
+          "status": "completed",
+          "resume_file": "resume1_sections.json",
+          "job_profile": "jd1"
+        },
+        "ats_scoring": {
+          "score": 10.86,
+          "status": "completed"
+        },
+        "screening": {
+          "score": 54.5,
+          "status": "Review"
+        },
+        "hr_interview": {
+          "score": 77.98,
+          "recommendation": "Hire"
+        },
+        "technical_interview": {
+          "score": 88.5,
+          "recommendation": "Strong Hire"
+        },
+        "final_decision": {
+          "ai_decision": "Review",
+          "human_decision": "Hire",
+          "match": false
+        }
+      },
+      {
+        "candidate_id": "OVER001",
+        "resume_upload": {
+          "status": "completed",
+          "resume_file": "resume1_sections.json",
+          "job_profile": "jd1"
+        },
+        "ats_scoring": {
+          "score": 10.86,
+          "status": "completed"
+        },
+        "screening": {
+          "score": 54.5,
+          "status": "Review"
+        },
+        "hr_interview": {
+          "score": 77.98,
+          "recommendation": "Strong Hire"
+        },
+        "technical_interview": {
+          "score": 88.5,
+          "recommendation": "Strong Hire"
+        },
+        "final_decision": {
+          "ai_decision": "Review",
+          "human_decision": "Strong Hire",
+          "match": false
+        }
+      }
+    ],
+    "alignment_rate": 25.0
+  },
+  "improvement_recommendations": [
+    "Calibrate confidence thresholds to reduce false reviews and premature rejections.",
+    "Increase the weight of technical signals when HR and screening signals are inconsistent.",
+    "Add a human-review checkpoint for borderline candidates before final decisioning."
+  ],
+  "stage_results": [
+    {
+      "candidate_id": "CONF001",
+      "resume_upload": {
+        "status": "completed",
+        "resume_file": "resume1_sections.json",
+        "job_profile": "jd1"
+      },
+      "ats_scoring": {
+        "score": 10.86,
+        "status": "completed"
+      },
+      "screening": {
+        "score": 54.5,
+        "status": "Review"
+      },
+      "hr_interview": {
+        "score": 77.98,
+        "recommendation": "Hire"
+      },
+      "technical_interview": {
+        "score": 88.5,
+        "recommendation": "Strong Hire"
+      },
+      "final_decision": {
+        "ai_decision": "Review",
+        "human_decision": "Strong Hire",
+        "match": false
+      }
+    },
+    {
+      "candidate_id": "HES001",
+      "resume_upload": {
+        "status": "completed",
+        "resume_file": "resume1_sections.json",
+        "job_profile": "jd1"
+      },
+      "ats_scoring": {
+        "score": 10.86,
+        "status": "completed"
+      },
+      "screening": {
+        "score": 54.5,
+        "status": "Review"
+      },
+      "hr_interview": {
+        "score": 77.98,
+        "recommendation": "Review"
+      },
+      "technical_interview": {
+        "score": 88.5,
+        "recommendation": "Strong Hire"
+      },
+      "final_decision": {
+        "ai_decision": "Review",
+        "human_decision": "Review",
+        "match": true
+      }
+    },
+    {
+      "candidate_id": "INEXP001",
+      "resume_upload": {
+        "status": "completed",
+        "resume_file": "resume1_sections.json",
+        "job_profile": "jd1"
+      },
+      "ats_scoring": {
+        "score": 10.86,
+        "status": "completed"
+      },
+      "screening": {
+        "score": 54.5,
+        "status": "Review"
+      },
+      "hr_interview": {
+        "score": 77.98,
+        "recommendation": "Hire"
+      },
+      "technical_interview": {
+        "score": 88.5,
+        "recommendation": "Strong Hire"
+      },
+      "final_decision": {
+        "ai_decision": "Review",
+        "human_decision": "Hire",
+        "match": false
+      }
+    },
+    {
+      "candidate_id": "OVER001",
+      "resume_upload": {
+        "status": "completed",
+        "resume_file": "resume1_sections.json",
+        "job_profile": "jd1"
+      },
+      "ats_scoring": {
+        "score": 10.86,
+        "status": "completed"
+      },
+      "screening": {
+        "score": 54.5,
+        "status": "Review"
+      },
+      "hr_interview": {
+        "score": 77.98,
+        "recommendation": "Strong Hire"
+      },
+      "technical_interview": {
+        "score": 88.5,
+        "recommendation": "Strong Hire"
+      },
+      "final_decision": {
+        "ai_decision": "Review",
+        "human_decision": "Strong Hire",
+        "match": false
+      }
+    }
+  ]
+}
