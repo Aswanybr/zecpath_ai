@@ -1,0 +1,8 @@
+[
+    {
+        "timestamp": "2026-08-03T09:32:04.556156",
+        "module": "Demo",
+        "error_type": "ZeroDivisionError",
+        "message": "division by zero"
+    }
+]

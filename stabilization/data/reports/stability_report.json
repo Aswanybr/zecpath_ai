@@ -1,0 +1,70 @@
+{
+    "pipeline_validation": {
+        "valid": true,
+        "missing_modules": []
+    },
+    "score_validation": {
+        "ats": {
+            "score": 86,
+            "valid": true
+        },
+        "screening": {
+            "score": 82,
+            "valid": true
+        },
+        "hr": {
+            "score": 88,
+            "valid": true
+        },
+        "technical": {
+            "score": 91,
+            "valid": true
+        },
+        "behavior": {
+            "score": 84,
+            "valid": true
+        },
+        "integrity": {
+            "score": 93,
+            "valid": true
+        },
+        "machine_test": {
+            "score": 87,
+            "valid": true
+        }
+    },
+    "conversation_validation": {
+        "valid": true,
+        "issues": []
+    },
+    "api_validation": {
+        "valid": true,
+        "missing_fields": []
+    },
+    "edge_cases": [
+        {
+            "case": "Empty Resume",
+            "status": "Executed"
+        },
+        {
+            "case": "No Skills",
+            "status": "Executed"
+        },
+        {
+            "case": "Zero Experience",
+            "status": "Executed"
+        },
+        {
+            "case": "High Experience",
+            "status": "Executed"
+        },
+        {
+            "case": "Negative Score",
+            "status": "Executed"
+        },
+        {
+            "case": "Score Above 100",
+            "status": "Executed"
+        }
+    ]
+}
