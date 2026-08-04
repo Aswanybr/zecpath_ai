@@ -1,0 +1,21 @@
+{
+    "current_pipeline": [
+        "Resume Upload",
+        "ATS Analysis",
+        "Screening AI",
+        "HR Interview",
+        "Technical Interview",
+        "Behavior Analysis",
+        "Integrity Detection",
+        "Machine Test",
+        "Hiring Recommendation"
+    ],
+    "future_modules": [
+        "AI Coaching",
+        "AI Video Analysis",
+        "Emotion Detection",
+        "Real-Time Feedback",
+        "Interview Analytics Dashboard"
+    ],
+    "deployment_strategy": "Microservice Architecture"
+}

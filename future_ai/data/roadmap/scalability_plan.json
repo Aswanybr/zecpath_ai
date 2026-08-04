@@ -1,0 +1,11 @@
+{
+    "deployment": "Cloud Native",
+    "architecture": "Microservices",
+    "database": "Distributed",
+    "cloud_features": {
+        "multi_tenant": true,
+        "api_gateway": true,
+        "load_balancing": true,
+        "global_scaling": true
+    }
+}
