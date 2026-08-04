@@ -1,0 +1,8 @@
+{
+    "status": "Integration Planned",
+    "total_apis": 9,
+    "sync_modules": 5,
+    "async_modules": 5,
+    "authentication": "Bearer Token",
+    "retry_policy": 3
+}

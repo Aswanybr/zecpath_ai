@@ -1,0 +1,50 @@
+{
+    "total_modules": 9,
+    "api_mapping": [
+        {
+            "module": "resume_parser",
+            "endpoint": "/api/resume/parse",
+            "processing": "async"
+        },
+        {
+            "module": "ats_engine",
+            "endpoint": "/api/ats/score",
+            "processing": "async"
+        },
+        {
+            "module": "screening_ai",
+            "endpoint": "/api/screening/evaluate",
+            "processing": "async"
+        },
+        {
+            "module": "hr_interview",
+            "endpoint": "/api/hr/interview",
+            "processing": "sync"
+        },
+        {
+            "module": "technical_interview",
+            "endpoint": "/api/technical/interview",
+            "processing": "sync"
+        },
+        {
+            "module": "behavior_ai",
+            "endpoint": "/api/behavior/analyze",
+            "processing": "sync"
+        },
+        {
+            "module": "integrity_detection",
+            "endpoint": "/api/integrity/check",
+            "processing": "sync"
+        },
+        {
+            "module": "machine_test_ai",
+            "endpoint": "/api/machine-test/evaluate",
+            "processing": "async"
+        },
+        {
+            "module": "hiring_intelligence",
+            "endpoint": "/api/hiring/finalize",
+            "processing": "sync"
+        }
+    ]
+}
