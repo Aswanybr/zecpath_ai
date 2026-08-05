@@ -1,0 +1,6 @@
+{
+    "lazy_model_loading": true,
+    "shared_model_instances": true,
+    "warm_start": true,
+    "batch_inference": true
+}

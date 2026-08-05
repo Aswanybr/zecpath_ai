@@ -1,0 +1,7 @@
+{
+    "connection_pooling": true,
+    "parallel_requests": true,
+    "response_compression": true,
+    "persistent_connections": true,
+    "request_timeout_seconds": 30
+}
