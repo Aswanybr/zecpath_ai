@@ -1,0 +1,29 @@
+{
+    "pipeline": [
+        {
+            "module": "Resume Parser",
+            "status": "Passed"
+        },
+        {
+            "module": "ATS Engine",
+            "status": "Passed"
+        },
+        {
+            "module": "Screening AI",
+            "status": "Passed"
+        },
+        {
+            "module": "HR Interview AI",
+            "status": "Passed"
+        },
+        {
+            "module": "Technical Interview AI",
+            "status": "Passed"
+        },
+        {
+            "module": "Decision AI",
+            "status": "Passed"
+        }
+    ],
+    "overall_status": "Operational"
+}

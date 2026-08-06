@@ -1,0 +1,15 @@
+{
+    "phase_1": [
+        "Improve ATS synonym matching",
+        "Refine screening intent thresholds"
+    ],
+    "phase_2": [
+        "Optimize HR follow-up logic",
+        "Improve technical interview scoring consistency"
+    ],
+    "phase_3": [
+        "Performance optimization",
+        "Reporting enhancements",
+        "Recruiter dashboard improvements"
+    ]
+}

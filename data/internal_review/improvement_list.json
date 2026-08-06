@@ -1,0 +1,29 @@
+{
+    "improvements": [
+        {
+            "module": "ATS Engine",
+            "issue": "Skill matching misses synonyms",
+            "priority": "High"
+        },
+        {
+            "module": "Screening AI",
+            "issue": "Intent confidence threshold needs refinement",
+            "priority": "Medium"
+        },
+        {
+            "module": "HR Interview AI",
+            "issue": "Follow-up questions occasionally repeat",
+            "priority": "Medium"
+        },
+        {
+            "module": "Technical Interview AI",
+            "issue": "Difficulty progression can be improved",
+            "priority": "Low"
+        },
+        {
+            "module": "Decision AI",
+            "issue": "Confidence explanation can be clearer",
+            "priority": "Low"
+        }
+    ]
+}
