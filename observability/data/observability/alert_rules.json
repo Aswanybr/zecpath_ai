@@ -1,0 +1,18 @@
+{
+    "high_response_time": {
+        "threshold_ms": 2000,
+        "action": "Generate Warning"
+    },
+    "high_failure_rate": {
+        "threshold_percent": 5,
+        "action": "Critical Alert"
+    },
+    "low_accuracy": {
+        "threshold_percent": 85,
+        "action": "Model Review"
+    },
+    "critical_errors": {
+        "threshold": 10,
+        "action": "Immediate Investigation"
+    }
+}

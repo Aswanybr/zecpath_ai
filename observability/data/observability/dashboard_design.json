@@ -1,0 +1,14 @@
+{
+    "title": "Zecpath AI Monitoring Dashboard",
+    "sections": [
+        "System Health",
+        "API Performance",
+        "Candidate Processing",
+        "Interview Statistics",
+        "Accuracy Trends",
+        "Failure Trends",
+        "Alerts",
+        "Audit Logs"
+    ],
+    "refresh_interval_seconds": 30
+}

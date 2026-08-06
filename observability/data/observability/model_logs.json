@@ -1,0 +1,9 @@
+[
+    {
+        "timestamp": "2026-08-06T14:41:01.580988",
+        "model": "ATS Engine",
+        "prediction": "Eligible",
+        "confidence": 0.94,
+        "inference_time_ms": 130
+    }
+]

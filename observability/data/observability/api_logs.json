@@ -1,0 +1,9 @@
+[
+    {
+        "timestamp": "2026-08-06T14:40:48.129828",
+        "endpoint": "/api/ats/score",
+        "method": "POST",
+        "status_code": 200,
+        "response_time_ms": 420
+    }
+]
