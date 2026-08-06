@@ -1,0 +1,10 @@
+{
+    "job_id": "J001",
+    "role": "Software Engineer",
+    "required_skills": [
+        "Python",
+        "SQL",
+        "Problem Solving"
+    ],
+    "experience_required": "2+ Years"
+}

@@ -1,0 +1,12 @@
+{
+    "candidate_id": "C007",
+    "candidate_level": "good",
+    "experience_years": 2,
+    "skills": [
+        "Docker",
+        "TensorFlow",
+        "Python",
+        "SQL"
+    ],
+    "education": "B.Tech Information Technology"
+}

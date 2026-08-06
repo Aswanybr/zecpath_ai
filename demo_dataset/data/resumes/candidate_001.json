@@ -1,0 +1,12 @@
+{
+    "candidate_id": "C001",
+    "candidate_level": "average",
+    "experience_years": 1,
+    "skills": [
+        "TensorFlow",
+        "Docker",
+        "Python",
+        "Power BI"
+    ],
+    "education": "B.Tech Information Technology"
+}

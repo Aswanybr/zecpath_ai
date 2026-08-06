@@ -1,0 +1,12 @@
+{
+    "candidate_id": "C006",
+    "candidate_level": "weak",
+    "experience_years": 6,
+    "skills": [
+        "React",
+        "FastAPI",
+        "TensorFlow",
+        "Power BI"
+    ],
+    "education": "B.Tech Information Technology"
+}

@@ -1,0 +1,12 @@
+{
+    "candidate_id": "C005",
+    "candidate_level": "average",
+    "experience_years": 0,
+    "skills": [
+        "Docker",
+        "Python",
+        "Java",
+        "FastAPI"
+    ],
+    "education": "B.Tech Information Technology"
+}
