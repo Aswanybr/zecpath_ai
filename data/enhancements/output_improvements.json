@@ -1,0 +1,15 @@
+{
+    "report_format": {
+        "candidate_information": "Improved",
+        "score_display": "Consistent percentage formatting",
+        "recommendation": "Highlighted",
+        "confidence_level": "Included",
+        "risk_assessment": "Included"
+    },
+    "json_standardization": {
+        "consistent_keys": true,
+        "consistent_data_types": true,
+        "pretty_print": true
+    },
+    "overall_status": "Formatted"
+}
