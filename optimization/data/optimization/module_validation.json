@@ -1,0 +1,10 @@
+{
+    "resume_parser": "Passed",
+    "ats_engine": "Passed",
+    "screening_ai": "Passed",
+    "hr_interview_ai": "Passed",
+    "technical_interview_ai": "Passed",
+    "decision_ai": "Passed",
+    "optimization_engine": "Passed",
+    "overall_validation": "Successful"
+}
