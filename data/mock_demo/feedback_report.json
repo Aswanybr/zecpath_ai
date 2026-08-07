@@ -1,0 +1,13 @@
+{
+    "presentation_quality": 9,
+    "system_explanation": 9,
+    "architecture_clarity": 9,
+    "demo_flow": 9,
+    "overall_rating": 9.0,
+    "feedback": [
+        "ATS explanation is clear.",
+        "Architecture diagrams are easy to follow.",
+        "Include additional recruiter dashboard screenshots.",
+        "Reduce explanation time for governance slide."
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "questions": [
+        {
+            "question": "Why Zecpath AI?",
+            "answer": "To automate and improve the recruitment process using AI."
+        },
+        {
+            "question": "How is ATS score calculated?",
+            "answer": "By comparing candidate skills, education, projects and experience with job requirements."
+        },
+        {
+            "question": "What does Decision AI do?",
+            "answer": "It combines ATS, Screening, HR and Technical interview scores to recommend a hiring decision."
+        }
+    ]
+}
