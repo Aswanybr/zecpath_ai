@@ -10,5 +10,30 @@
         "Alerts",
         "Audit Logs"
     ],
-    "refresh_interval_seconds": 30
+    "refresh_interval_seconds": 30,
+    "metrics": {
+        "average_response_time_ms": 510,
+        "system_accuracy_percent": 94.2,
+        "failure_rate_percent": 1.4,
+        "candidate_processing_count": 275,
+        "interview_success_rate_percent": 82.6
+    },
+    "alerts": {
+        "high_response_time": {
+            "threshold_ms": 2000,
+            "action": "Generate Warning"
+        },
+        "high_failure_rate": {
+            "threshold_percent": 5,
+            "action": "Critical Alert"
+        },
+        "low_accuracy": {
+            "threshold_percent": 85,
+            "action": "Model Review"
+        },
+        "critical_errors": {
+            "threshold": 10,
+            "action": "Immediate Investigation"
+        }
+    }
 }

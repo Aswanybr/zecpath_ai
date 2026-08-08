@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+  <meta charset='utf-8'>
+  <title>Zecpath AI Monitoring Dashboard</title>
+  <style>
+    body { font-family: 'Segoe UI', Arial, sans-serif; margin: 0; padding: 24px; background: linear-gradient(135deg, #f8fafc, #eef2ff); color: #1f2937; }
+    .page { max-width: 1200px; margin: 0 auto; }
+    .hero { background: linear-gradient(90deg, #2563eb, #7c3aed); color: white; border-radius: 16px; padding: 24px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); }
+    h1 { margin: 0 0 8px; font-size: 28px; }
+    .subtitle { opacity: 0.95; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; margin-top: 20px; }
+    .card { background: white; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); border: 1px solid #e5e7eb; }
+    .card h3 { margin-top: 0; color: #374151; }
+    .card p { font-size: 20px; font-weight: 600; margin: 6px 0 0; color: #111827; }
+    .alert { border-left: 6px solid #dc2626; }
+    .chart-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; margin-top: 20px; }
+    .bar-box { background: white; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); border: 1px solid #e5e7eb; }
+    .bar-label { font-weight: 600; margin-bottom: 6px; color: #374151; }
+    .bar { height: 8px; background: #e5e7eb; border-radius: 999px; overflow: hidden; margin: 8px 0; }
+    .fill { height: 100%; border-radius: 999px; }
+    .fill.good { background: linear-gradient(90deg, #16a34a, #4ade80); }
+    .fill.warn { background: linear-gradient(90deg, #f59e0b, #fbbf24); }
+    .fill.info { background: linear-gradient(90deg, #2563eb, #60a5fa); }
+    ul { padding-left: 18px; color: #374151; }
+  </style>
+</head>
+<body>
+  <div class='page'>
+    <div class='hero'>
+      <h1>Zecpath AI Monitoring Dashboard</h1>
+      <div class='subtitle'>Operational view for candidate processing, interview analytics, and model health.</div>
+      <p>Refresh interval: 30s</p>
+    </div>
+
+    <h2>Dashboard Sections</h2>
+    <ul><li>System Health</li><li>API Performance</li><li>Candidate Processing</li><li>Interview Statistics</li><li>Accuracy Trends</li><li>Failure Trends</li><li>Alerts</li><li>Audit Logs</li></ul>
+
+    
+            <div class='chart-row'>
+              <div class='bar-box'><div class='bar-label'>Accuracy</div><div class='bar'><div class='fill good' style='width:94.2%'></div></div><span>94.2%</span></div>
+              <div class='bar-box'><div class='bar-label'>Failure Rate</div><div class='bar'><div class='fill warn' style='width:14.0%'></div></div><span>1.4%</span></div>
+              <div class='bar-box'><div class='bar-label'>Response Time</div><div class='bar'><div class='fill info' style='width:51.0%'></div></div><span>510 ms</span></div>
+            </div>
+            
+
+    <h2>Key Metrics</h2>
+    <div class='grid'><div class='card'><h3>Average Response Time Ms</h3><p>510</p></div><div class='card'><h3>System Accuracy Percent</h3><p>94.2</p></div><div class='card'><h3>Failure Rate Percent</h3><p>1.4</p></div><div class='card'><h3>Candidate Processing Count</h3><p>275</p></div><div class='card'><h3>Interview Success Rate Percent</h3><p>82.6</p></div></div>
+
+    <h2>Active Alerts</h2>
+    <div class='grid'><div class='card alert'><h3>High Response Time</h3><p>{&#x27;threshold_ms&#x27;: 2000, &#x27;action&#x27;: &#x27;Generate Warning&#x27;}</p></div><div class='card alert'><h3>High Failure Rate</h3><p>{&#x27;threshold_percent&#x27;: 5, &#x27;action&#x27;: &#x27;Critical Alert&#x27;}</p></div><div class='card alert'><h3>Low Accuracy</h3><p>{&#x27;threshold_percent&#x27;: 85, &#x27;action&#x27;: &#x27;Model Review&#x27;}</p></div><div class='card alert'><h3>Critical Errors</h3><p>{&#x27;threshold&#x27;: 10, &#x27;action&#x27;: &#x27;Immediate Investigation&#x27;}</p></div></div>
+  </div>
+</body>
+</html>
