@@ -58,5 +58,6 @@ The platform roadmap is documented in [docs/AI_Roadmap.md](AI_Roadmap.md) and co
 1. Read [README.md](../README.md)
 2. Review [docs/Internship_Portfolio.md](Internship_Portfolio.md)
 3. Study [docs/AI_Roadmap.md](AI_Roadmap.md)
-4. Explore the implementation in [main.py](../main.py)
-5. Review supporting reports under [docs](.)
+4. Review [docs/Day70_Final_Demo_Handover.md](Day70_Final_Demo_Handover.md)
+5. Explore the implementation in [main.py](../main.py)
+6. Review supporting reports under [docs](.)
